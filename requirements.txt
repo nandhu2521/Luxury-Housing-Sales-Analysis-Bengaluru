@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy
+pymysql          # or psycopg2 for PostgreSQL if using PostgreSQL instead of MySQL
+jupyter
+textblob         # optional, for sentiment analysis of buyer comments
+scikit-learn     # optional, for ML experiments like price prediction
+matplotlib
+seaborn
